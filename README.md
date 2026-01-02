@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hesam Bakhshi</h1>
 <h3 align="center">I'm a Front End developer in Iran</h3>
-<img align="right" alt="hesam" width="400" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+<img align="right" alt="hesma-css" width=400" src="https://www.technox-ets.org/web/image/slide.channel/123/image_512/Front-End%20Development?unique=ef20911"
 - 🌱 I’m currently learning **Html & Css**
 
 - 👨‍💻 All of my projects are available at [https://t.me/hc_frontend](https://t.me/hc_frontend)
